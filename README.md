@@ -1,5 +1,5 @@
 # Zero-Cost Whole-Body Teleoperation for Mobile Manipulation
-[**arXiv**](https://arxiv.org/abs/todo) | [**website**](http://moma-teleop.cs.uni-freiburg.de) 
+[**arXiv**](https://arxiv.org/abs/2409.15095) | [**website**](http://moma-teleop.cs.uni-freiburg.de) 
 
 Repository providing the source code for the paper
 >Zero-Cost Whole-Body Teleoperation for Mobile Manipulation
@@ -14,7 +14,7 @@ Please cite the paper as follows:
 
     @article{honerkamp2024zero,
         title={Zero-Cost Whole-Body Teleoperation for Mobile Manipulation},
-        journal={arXiv preprint arXiv:todo},
+        journal={arXiv preprint arXiv:2409.15095},
         author={Daniel Honerkamp and Harsh Mahesheka and Jan Ole von Hartz and Tim Welschehold and Abhinav Valada},
         year={2024},
     }
